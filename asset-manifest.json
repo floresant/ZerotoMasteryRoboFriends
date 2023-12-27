@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ZerotoMasteryRoboFriends/static/css/main.cdd08a8e.css",
+    "main.js": "/ZerotoMasteryRoboFriends/static/js/main.7222f3a9.js",
+    "static/js/787.c2cff050.chunk.js": "/ZerotoMasteryRoboFriends/static/js/787.c2cff050.chunk.js",
+    "index.html": "/ZerotoMasteryRoboFriends/index.html",
+    "main.cdd08a8e.css.map": "/ZerotoMasteryRoboFriends/static/css/main.cdd08a8e.css.map",
+    "main.7222f3a9.js.map": "/ZerotoMasteryRoboFriends/static/js/main.7222f3a9.js.map",
+    "787.c2cff050.chunk.js.map": "/ZerotoMasteryRoboFriends/static/js/787.c2cff050.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd08a8e.css",
+    "static/js/main.7222f3a9.js"
+  ]
+}
